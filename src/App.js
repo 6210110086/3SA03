@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react';
 import WordCard from './WordCard';
 
-const word = "Hello1";
+const word = "Hello";
 function App() {
   return (
     <div>
